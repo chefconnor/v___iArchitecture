@@ -14,3 +14,4 @@ Sparse product data can be enriched using similar products, in some cases. A clu
 
 
 
+<img width="806" height="956" alt="Image" src="https://github.com/user-attachments/assets/12781d3b-558d-4c24-b465-b3301b7c8c93" />
